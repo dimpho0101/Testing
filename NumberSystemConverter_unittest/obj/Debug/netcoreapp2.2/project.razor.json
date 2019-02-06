@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\bbdnet1942\\Desktop\\RomanNum\\NumberSystemConverter_unittest\\NumberSystemConverter_unittest.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

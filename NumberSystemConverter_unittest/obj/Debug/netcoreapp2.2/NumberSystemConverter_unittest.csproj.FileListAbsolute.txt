@@ -1,0 +1,17 @@
+C:\Users\bbdnet1942\Desktop\RomanNum\NumberSystemConverter_unittest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\bbdnet1942\Desktop\RomanNum\NumberSystemConverter_unittest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\bbdnet1942\Desktop\RomanNum\NumberSystemConverter_unittest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\bbdnet1942\Desktop\RomanNum\NumberSystemConverter_unittest\bin\Debug\netcoreapp2.2\NumberSystemConverter_unittest.deps.json
+C:\Users\bbdnet1942\Desktop\RomanNum\NumberSystemConverter_unittest\bin\Debug\netcoreapp2.2\NumberSystemConverter_unittest.runtimeconfig.json
+C:\Users\bbdnet1942\Desktop\RomanNum\NumberSystemConverter_unittest\bin\Debug\netcoreapp2.2\NumberSystemConverter_unittest.runtimeconfig.dev.json
+C:\Users\bbdnet1942\Desktop\RomanNum\NumberSystemConverter_unittest\bin\Debug\netcoreapp2.2\NumberSystemConverter_unittest.dll
+C:\Users\bbdnet1942\Desktop\RomanNum\NumberSystemConverter_unittest\bin\Debug\netcoreapp2.2\NumberSystemConverter_unittest.pdb
+C:\Users\bbdnet1942\Desktop\RomanNum\NumberSystemConverter_unittest\bin\Debug\netcoreapp2.2\NumberSystemConverter.dll
+C:\Users\bbdnet1942\Desktop\RomanNum\NumberSystemConverter_unittest\bin\Debug\netcoreapp2.2\NumberSystemConverter.pdb
+C:\Users\bbdnet1942\Desktop\RomanNum\NumberSystemConverter_unittest\obj\Debug\netcoreapp2.2\NumberSystemConverter_unittest.csprojAssemblyReference.cache
+C:\Users\bbdnet1942\Desktop\RomanNum\NumberSystemConverter_unittest\obj\Debug\netcoreapp2.2\NumberSystemConverter_unittest.csproj.CoreCompileInputs.cache
+C:\Users\bbdnet1942\Desktop\RomanNum\NumberSystemConverter_unittest\obj\Debug\netcoreapp2.2\NumberSystemConverter_unittest.AssemblyInfoInputs.cache
+C:\Users\bbdnet1942\Desktop\RomanNum\NumberSystemConverter_unittest\obj\Debug\netcoreapp2.2\NumberSystemConverter_unittest.AssemblyInfo.cs
+C:\Users\bbdnet1942\Desktop\RomanNum\NumberSystemConverter_unittest\obj\Debug\netcoreapp2.2\NumberSystemConverter_unittest.csproj.CopyComplete
+C:\Users\bbdnet1942\Desktop\RomanNum\NumberSystemConverter_unittest\obj\Debug\netcoreapp2.2\NumberSystemConverter_unittest.dll
+C:\Users\bbdnet1942\Desktop\RomanNum\NumberSystemConverter_unittest\obj\Debug\netcoreapp2.2\NumberSystemConverter_unittest.pdb
